@@ -1334,3 +1334,158 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.01-16.11.05:286][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 566 ms)
 [2023.01.01-16.11.05:289][630]AssetCheck: New page: Asset Save: Tilted_Tutorial
 [2023.01.01-16.11.05:289][630]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Tilted_Tutorial.Tilted_Tutorial
+[2023.01.01-16.12.48:100][ 67]LogDerivedDataCache: C:/Users/Xavier/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.090 and deleted 0 files with total size 0 MiB. Scanned 1911 files in 1906 folders with total size 21 MiB.
+[2023.01.01-16.14.25:635][510]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.01-16.14.25:635][510]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.01.01-16.14.25:635][510]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.01-16.14.25:635][510]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.01.01-16.14.25:635][510]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.01-16.14.25:635][510]LogWindows: Warning: URL: C:\Users\Xavier\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.01.01-16.14.25:636][510]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.01-16.14.25:636][510]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.01.01-16.14.25:636][510]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.01-16.14.25:636][510]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.01.01-16.14.25:636][510]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.01-16.14.25:636][510]LogWindows: Warning: URL: C:\Users\Xavier\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.01.01-16.14.25:636][510]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.01-16.14.25:636][510]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.01.01-16.14.45:051][173]LogSlate: Window 'Source Control Login' being destroyed
+[2023.01.01-16.16.01:674][395]LogEditorViewport: Clicking Background
+[2023.01.01-16.16.11:740][989]LogSlate: Window 'Source Control Login' being destroyed
+[2023.01.01-16.16.13:327][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.01-16.16.13:355][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.01-16.16.13:363][ 79]LogSavePackage: Moving output files for package: /Game/Maps/Tilted_Tutorial
+[2023.01.01-16.16.13:364][ 79]LogSavePackage: Moving '../../../../../../Users/Xavier/Documents/Unreal Projects/Tilted/Saved/Tilted_Tutorial89DC089E4B96C4AEF969FCAED99706BD.tmp' to '../../../../../../Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Tilted_Tutorial.umap'
+[2023.01.01-16.16.13:373][ 79]LogFileHelpers: Saving map 'Tilted_Tutorial' took 0.025
+[2023.01.01-16.16.13:379][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 618 ms)
+[2023.01.01-16.16.13:383][ 79]AssetCheck: New page: Asset Save: Tilted_Tutorial
+[2023.01.01-16.16.13:383][ 79]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Tilted_Tutorial.Tilted_Tutorial
+[2023.01.01-16.16.22:692][622]SourceControl: Error: Operation 'UpdateChangelistsStatus' not supported by source control provider 'Git'
+[2023.01.01-16.16.22:728][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.22:751][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.22:773][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.22:795][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.22:817][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.22:840][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.22:863][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.22:886][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.22:908][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.22:930][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.22:953][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.22:976][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.22:998][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:021][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:044][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:066][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:088][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:110][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:134][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:156][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:179][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:202][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:224][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:246][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:268][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:291][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:315][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:338][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:361][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:383][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:406][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:428][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:450][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:472][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:495][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:517][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:541][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:564][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:586][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:609][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:632][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:654][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:677][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:699][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:721][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:745][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:767][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:790][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:812][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:834][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:856][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:879][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:901][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:925][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:947][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:970][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.23:993][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:014][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:036][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:060][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:083][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:106][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:129][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:153][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:175][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:198][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:221][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:243][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:266][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:289][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:311][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:333][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:355][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:378][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:400][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:422][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:445][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:466][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:489][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:511][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:533][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:556][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:578][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:601][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:623][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:646][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:668][622]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.16.24:678][622]SourceControl: Error: fatal: Invalid path 'C:/Users/Xavier/OneDrive - Maaslandcollege/Documenten/Unreal Projects/Tilted': No such file or directory
+[2023.01.01-16.17.36:583][931]LogSlate: Window 'View Changelists' being destroyed
+[2023.01.01-16.17.36:588][931]LogSlate: Window 'View Changelists' being destroyed
