@@ -97,12 +97,12 @@
 "../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.ubulk" 96
 "../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 97
 "../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uexp" 98
-"../../../Engine/Content/EditorMeshes/EditorSphere.ubulk" 99
-"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 100
-"../../../Engine/Content/EditorMeshes/EditorSphere.uexp" 101
-"../../../Engine/Content/EditorResources/S_Solver.ubulk" 102
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 103
-"../../../Engine/Content/EditorResources/S_Solver.uexp" 104
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 99
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 100
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 101
+"../../../Engine/Content/EditorMeshes/EditorSphere.ubulk" 102
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 103
+"../../../Engine/Content/EditorMeshes/EditorSphere.uexp" 104
 "../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.ubulk" 105
 "../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uasset" 106
 "../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uexp" 107
@@ -749,64 +749,72 @@
 "../../../Engine/Content/Maps/Entry_BuiltData.uexp" 748
 "../../../Engine/Content/Maps/Entry.uexp" 749
 "../../../Engine/Content/Maps/Entry.umap" 750
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Jump.uasset" 751
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Jump.uexp" 752
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Dash.uasset" 753
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Dash.uexp" 754
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Move.uasset" 755
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Move.uexp" 756
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/IMC_Move.uasset" 757
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/IMC_Move.uexp" 758
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 759
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 760
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PlayerSprites/playerSprite.uasset" 761
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PlayerSprites/playerSprite.uexp" 762
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PlayerSprites/playerSprite_Sprite.uasset" 763
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PlayerSprites/playerSprite_Sprite.uexp" 764
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PlayerSprites/Animations/TestAnimations/playerSprite_Flipbook.uasset" 765
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PlayerSprites/Animations/TestAnimations/playerSprite_Flipbook.uexp" 766
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Blueprints/playerSprite_Flipbook.uasset" 767
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Blueprints/playerSprite_Flipbook.uexp" 768
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/BP_SpriteCharacter.uasset" 769
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/BP_SpriteCharacter.uexp" 770
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/GM_SideScroller.uasset" 771
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/GM_SideScroller.uexp" 772
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/Text/TutorialText1.uasset" 773
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/Text/TutorialText1.uexp" 774
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelBackground/background.uasset" 775
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelBackground/background.uexp" 776
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelBackground/background_Sprite.uasset" 777
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelBackground/background_Sprite.uexp" 778
-"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 779
-"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uexp" 780
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TileSheets/sheet.uasset" 781
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TileSheets/sheet.uexp" 782
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/sheet_TileSet.uasset" 783
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/sheet_TileSet.uexp" 784
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Thin1Short.uasset" 785
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Thin1Short.uexp" 786
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Thin1.uasset" 787
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Thin1.uexp" 788
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/SlopeStart1.uasset" 789
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/SlopeStart1.uexp" 790
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TileSheets/sheet_TileSet.uasset" 791
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TileSheets/sheet_TileSet.uexp" 792
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/LightBeamBlue1.uasset" 793
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/LightBeamBlue1.uexp" 794
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Flat1Short.uasset" 795
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Flat1Short.uexp" 796
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Flat1.uasset" 797
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Flat1.uexp" 798
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed.ubulk" 799
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed.uasset" 800
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed.uexp" 801
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed_TileSet.uasset" 802
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed_TileSet.uexp" 803
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed_TileMap.uasset" 804
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed_TileMap.uexp" 805
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/testTiles/tile_0062.uasset" 806
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/testTiles/tile_0062.uexp" 807
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/testTiles/tile_0062_Sprite.uasset" 808
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/testTiles/tile_0062_Sprite.uexp" 809
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Tilted_Tutorial.uexp" 810
-"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Tilted_Tutorial.umap" 811
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelBackground/background.uasset" 751
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelBackground/background.uexp" 752
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/MainMenu.uasset" 753
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/MainMenu.uexp" 754
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/MainMenuMap.uexp" 755
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/MainMenuMap.umap" 756
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Jump.uasset" 757
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Jump.uexp" 758
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Dash.uasset" 759
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Dash.uexp" 760
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Move.uasset" 761
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Move.uexp" 762
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/IMC_Move.uasset" 763
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/IMC_Move.uexp" 764
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PauseScreen.uasset" 765
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PauseScreen.uexp" 766
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 767
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 768
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PlayerSprites/playerSprite.uasset" 769
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PlayerSprites/playerSprite.uexp" 770
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PlayerSprites/playerSprite_Sprite.uasset" 771
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PlayerSprites/playerSprite_Sprite.uexp" 772
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PlayerSprites/Animations/TestAnimations/playerSprite_Flipbook.uasset" 773
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PlayerSprites/Animations/TestAnimations/playerSprite_Flipbook.uexp" 774
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Blueprints/playerSprite_Flipbook.uasset" 775
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Blueprints/playerSprite_Flipbook.uexp" 776
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/BP_SpriteCharacter.uasset" 777
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/BP_SpriteCharacter.uexp" 778
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/GM_SideScroller.uasset" 779
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/GM_SideScroller.uexp" 780
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Tilted_Tutorial_BuiltData.uasset" 781
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Tilted_Tutorial_BuiltData.uexp" 782
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/Text/TutorialText1.uasset" 783
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/Text/TutorialText1.uexp" 784
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelBackground/background_Sprite.uasset" 785
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelBackground/background_Sprite.uexp" 786
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 787
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uexp" 788
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TileSheets/sheet.uasset" 789
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TileSheets/sheet.uexp" 790
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/sheet_TileSet.uasset" 791
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/sheet_TileSet.uexp" 792
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Thin1Short.uasset" 793
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Thin1Short.uexp" 794
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Thin1.uasset" 795
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Thin1.uexp" 796
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/SlopeStart1.uasset" 797
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/SlopeStart1.uexp" 798
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TileSheets/sheet_TileSet.uasset" 799
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TileSheets/sheet_TileSet.uexp" 800
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/LightBeamBlue1.uasset" 801
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/LightBeamBlue1.uexp" 802
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Flat1Short.uasset" 803
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Flat1Short.uexp" 804
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Flat1.uasset" 805
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/Flat1.uexp" 806
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed.ubulk" 807
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed.uasset" 808
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed.uexp" 809
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed_TileSet.uasset" 810
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed_TileSet.uexp" 811
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed_TileMap.uasset" 812
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/TilemapRock/tilemap_color_packed_TileMap.uexp" 813
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/testTiles/tile_0062.uasset" 814
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/testTiles/tile_0062.uexp" 815
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/testTiles/tile_0062_Sprite.uasset" 816
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/testTiles/tile_0062_Sprite.uexp" 817
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Tilted_Tutorial.uexp" 818
+"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Tilted_Tutorial.umap" 819
