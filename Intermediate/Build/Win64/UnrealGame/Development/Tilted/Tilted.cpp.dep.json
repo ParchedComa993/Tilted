@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\xavier\\documents\\unreal projects\\tilted\\intermediate\\source\\tilted.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\xavier\\documents\\unreal projects\\tilted\\intermediate\\build\\win64\\tilted\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\xavier\\documents\\unreal projects\\tilted\\intermediate\\build\\win64\\unrealgame\\development\\tilted\\definitions.tilted.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
