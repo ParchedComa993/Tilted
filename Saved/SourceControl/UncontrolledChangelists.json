@@ -4,7 +4,36 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/MainMenu.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/BP_SpriteCharacter.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Levels/TiltedLV1.umap",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Triggers/TriggerT.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Levels/Tilted_Tutorial_BuiltData.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Levels/Tilted_Tutorial.umap",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Levels/Tilted_TutorialHard.umap",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/playerSprite_Flipbook.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/MainMenuMap.umap",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/PauseScreen.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/IMC_Move.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Inputs/Actions/IA_Pause.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/GM_SideScroller.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/CheckPoint.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/Materials/glowDeath.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/BP_DoomedSpriteCharacter.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/GM_SideScrollerHard.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Graphics/LevelAssets/Tilemaps/BloodFlow.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Blueprints/Text/TutorialText1.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Tilted_Tutorial.umap",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Tilted_TutorialHard.umap",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Maps/Tilted_Tutorial_BuiltData.uasset",
+				"C:/Users/Xavier/Documents/Unreal Projects/Tilted/Content/Blueprints/playerSprite_Flipbook.uasset"
+			]
 		}
 	]
 }
